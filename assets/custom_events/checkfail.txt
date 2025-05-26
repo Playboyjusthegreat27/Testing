@@ -1,0 +1,9 @@
+function onEvent(name, value1, value2)
+	if name == 'checkfail' then 
+		getPropertyFromClass('PlayState' 'health')
+		if fail > 1 then
+		setPropertyFromClass('PlayState' 'health', 0)
+		end
+
+	end
+end
