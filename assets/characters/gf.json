@@ -190,15 +190,15 @@
 	"no_antialiasing": false,
 	"image": "characters/GF_assets",
 	"position": [
-		0,
-		0
+		280,
+		-40
 	],
-	"healthicon": "exeller",
+	"healthicon": "gf",
 	"flip_x": false,
 	"healthbar_colors": [
-		40,
-		31,
-		162
+		165,
+		0,
+		77
 	],
 	"camera_position": [
 		0,
