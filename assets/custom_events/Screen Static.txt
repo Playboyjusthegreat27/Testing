@@ -1,3 +1,0 @@
-Show static.
-
-Value 1: Duration.
