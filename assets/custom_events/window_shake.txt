@@ -1,4 +1,0 @@
-shakes the game window
-
-value 1: amplitude x (in px)
-value 2: amplitude y (in px)
