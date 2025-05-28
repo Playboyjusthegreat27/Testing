@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				180,
+				120
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "gonna getcha BUDDY",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "",
+			"indices": [],
+			"name": ""
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "sonicexe-getcha",
+			"loop": false,
+			"name": "gonna getcha up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/gonna getcha",
+	"position": [
+		-80,
+		0
+	],
+	"healthicon": "sonicexe",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		85,
+		142
+	],
+	"camera_position": [
+		-50,
+		-110
+	],
+	"sing_duration": 3.6,
+	"scale": 0.9
+}
